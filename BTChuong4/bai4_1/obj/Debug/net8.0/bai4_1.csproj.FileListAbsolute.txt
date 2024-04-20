@@ -1,0 +1,14 @@
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.AssemblyInfoInputs.cache
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.AssemblyInfo.cs
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.csproj.CoreCompileInputs.cache
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\bin\Debug\net8.0\bai4_1.exe
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\bin\Debug\net8.0\bai4_1.deps.json
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\bin\Debug\net8.0\bai4_1.runtimeconfig.json
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\bin\Debug\net8.0\bai4_1.dll
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\bin\Debug\net8.0\bai4_1.pdb
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.dll
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\refint\bai4_1.dll
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.pdb
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\bai4_1.genruntimeconfig.cache
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTChuong4\bai4_1\obj\Debug\net8.0\ref\bai4_1.dll

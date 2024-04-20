@@ -1,0 +1,40 @@
+AKR3, Thang rút, 3m, 10, 2.5
+AKR2, Thang rút, 2m, 7, 2.3
+AKR5, Thang rút, 5m, 10, 3.2
+GER3, Thang rút, 3m, 10, 2.7
+GER2, Thang rút, 2m, 15, 2.2
+GER5, Thang rút, 5m, 15, 4.0
+AKG2, Thang ghế, 2m, 15, 2.6
+AKG3, Thang ghế, 3m, 14, 3.5
+GEG2, Thang ghế, 2m, 15, 2.2
+GEG3, Thang ghế, 3m, 14, 3.1
+BIG2, Thang ghế, 2m, 7, 2.2
+BIG3, Thang ghế, 3m, 12, 2.5
+AKB2, Thang bậc, 2m, 15, 2.1
+AKB3, Thang bậc, 3m, 19, 2.6
+AKB4, Thang bậc, 4m, 5, 3.8
+AKB5, Thang bậc, 5m, 13, 4.2
+BIB2, Thang bậc, 2m, 12, 2.2
+BIB4, Thang bậc, 4m, 15, 3.7
+GEG4, Thang gấp, 4m, 16, 3.9
+GEG6, Thang gấp, 6m, 17, 4.5
+GEG8, Thang gấp, 8m, 14, 5.2
+AKGG6, Thang gấp, 6m, 12, 4.1
+AKGG8, Thang gấp, 8m, 15, 6.0
+BIGG6, Thang gấp, 6m, 16, 4.9
+BIGG8, Thang gấp, 8m, 16, 5.9
+AKT5, Thang trượt, 5m, 17, 4.2
+AKT6, Thang trượt, 6m, 18, 5.7
+AKT8, Thang trượt, 8m, 14, 6.2
+GET5, Thang trượt, 5m, 17, 5.2
+BIT5, Thang trượt, 5m, 10, 5.4
+POT5, Thang trượt, 5m, 20, 5.2
+POT6, Thang trượt, 6m, 20, 5.9
+BIT6, Thang trượt, 6m, 12, 5.6
+GET6, Thang trượt, 6m, 6, 5.8
+POT8, Thang trượt, 8m, 2, 6.5
+AKX3, Thang gác xếp, 3m, 12, 3.2
+POX3, Thang gác xếp, 3m, 15, 3.2
+GEX3, Thang gác xếp, 3m, 2, 3.6
+BIX3, Thang gác xếp, 3m, 15, 3.5
+AKX5, Thang gác xếp, 5m, 12, 4.2

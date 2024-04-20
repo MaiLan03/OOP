@@ -1,0 +1,17 @@
+MaBN	TenBN			GioiTinh	Benh			Mucdo
+191525;	Tran Huy Hoang;		Nam;		Xuong Khop;		Nhe
+124123;	Le Thi Ha;		Nu;		Mat;			Nhe
+121513;	Nguyen Thanh Nga;	Nu;		Tieu hoa;		Trung binh
+198512;	Nguyen Ngoc Huy;	Nam;		Lao ;			Nang
+192621;	Tran Thi Hang;		Nu;		Covid;			Trung binh
+980125;	Nguyen Gia Huy;		Nam ;		Da day;			Trung binh
+123631;	Vo Ha Tram;		Nu;		Xuong Khop;		Nang
+192126;	Vu Thu Phuong ;		Nu;		Covid;			Trung binh
+824122;	Truong Van Thang;	Nam;		Tieu hoa;		Nhe
+612863;	Tran Van Trung;		Nam;		Mat;			Trung binh
+192621;	Pham Cong Hoai;		Nam ;		Covid;			Nang
+211752;	Pham Thi Ngoc;		Nu;		Xuong Khop;		Nhe
+199178;	Le Van Huy;		Nam;		Lao;			Trung binh
+129862;	Pham Hoang My;		Nu;		Tieu hoa;		Nhe
+180876;	Le Trung Hieu;		Nam;		Covid;			Trung binh
+133126;	Nguyen Hoai Nam;	Nam;		Covid;			Nang

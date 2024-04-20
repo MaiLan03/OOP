@@ -1,0 +1,14 @@
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\bin\Debug\net8.0\b5_2.exe
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\bin\Debug\net8.0\b5_2.deps.json
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\bin\Debug\net8.0\b5_2.runtimeconfig.json
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\bin\Debug\net8.0\b5_2.dll
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\bin\Debug\net8.0\b5_2.pdb
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.AssemblyInfoInputs.cache
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.AssemblyInfo.cs
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.csproj.CoreCompileInputs.cache
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.dll
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\refint\b5_2.dll
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.pdb
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\b5_2.genruntimeconfig.cache
+D:\OneDrive - The Danang University of Economics\4.N3-k1\4.LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\OOP_LTHDT\BTTL5_6\b5_2\obj\Debug\net8.0\ref\b5_2.dll
